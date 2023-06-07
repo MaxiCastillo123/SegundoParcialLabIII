@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Victoria",
+    "apellido": "Cabo",
+    "edad": 30,
+    "barrio": "Faro",
+    "dni": "37854698",
+    "ocupacion": "Empleado de Comercio",
+    "kit": -406322387
+  },
+  {
+    "nombre": "Emi",
+    "apellido": "Sasso",
+    "edad": 28,
+    "barrio": "Constitucion",
+    "dni": "396548721",
+    "ocupacion": "Empleado Metalurgico",
+    "kit": -148080000
+  },
+  {
+    "nombre": "Santiago",
+    "apellido": "Mato",
+    "edad": 33,
+    "barrio": "Centro",
+    "dni": "35546321",
+    "ocupacion": "Empleado informatico",
+    "kit": 581840093
+  }
+]
